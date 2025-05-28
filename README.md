@@ -16,9 +16,9 @@ Nuestros planes de entrenamiento
 
 | Nivel | Precio | ¿Que nos incluye? |
 |----------|-------|-----------------|
-| Básico     | 22,99 | Una tipo de actividad |
-| Alpha   | 30,99 | Variedad de actividades y materiales |
-| Spartan   | 37,99 | Acceso total al complejo y posibilidad de apuntarse a diferentes competiciones |
+| Básico     | 22,99€ | Una tipo de actividad |
+| Alpha   | 30,99€ | Variedad de actividades y materiales |
+| Spartan   | 37,99€ | Acceso total al complejo y posibilidad de apuntarse a diferentes competiciones |
 
 ¿Estás interesado en nuestra oferta?
 - [ ] Sí
