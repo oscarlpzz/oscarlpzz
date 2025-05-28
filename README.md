@@ -23,9 +23,8 @@ Nuestros planes de entrenamiento
 ¿Estás interesado en nuestra oferta?
 - [ ] Sí
 - [ ] No
-  - [ ] Cambios que harías
 
-[Video de Ibai](https://www.youtube.com/watch?v=PWkaQXXTMd8)
+[Video inicial](https://www.youtube.com/watch?v=4-zjQvTDnbw)
 
 <a href='https://youtu.be/XiTE_o7mHgI' target='_blank'>
   <img width='30%' src='https://www.youtube.com/watch?v=PWkaQXXTMd8/mqdefault.jpg' alt='¿Las VPN son una estafa?' />
