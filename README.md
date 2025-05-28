@@ -1,37 +1,29 @@
-# Hola 
+# Hola, esta es la pagina oficial de nuestro centro
 
-**Hola me llamo Óscar** (Negrita)
+**Nos llamamos SpartanFit**
 
-*Tengo 4 cafeteras* 
+*Nos dedicamos a asesorar y entrenar a las personas que se apuntan a nuestro gimnasio* 
 
-Tengo el B1 y Bachillerato
+**Tenemos diferentes actividades dentro del centro**
+Actividades en SpartanFit:
+- Boxeo
+- Pádel
+- Entrenos personalizados
+  - Entrenamientos de fuerza
+  - Crossfit
 
-```python
+Nuestros planes de entrenamiento
 
-```
-Lista:
-- Elemento1
-- Elemento2
-- Elemento3
-  - Sub-elemento
-  - Sub-elemento
- 
-Lista numerada: 
+| Nivel | Precio | ¿Que nos incluye? |
+|----------|-------|-----------------|
+| Básico     | 22,99 | Una tipo de actividad |
+| Alpha   | 30,99 | Variedad de actividades y materiales |
+| Spartan   | 37,99 | Acceso total al complejo y posibilidad de apuntarse a diferentes competiciones |
 
-1. Paso uno
-2. Paso dos
-
-
-> Esto es un comentario
-
-| Lenguaje | Nivel |
-|----------|-------|
-| HTML     | Básico |
-| Python   | Intermedio |
-
-Checkboxes
-- [ ] Checkbox 1
-- [ ] Checkbox 2
+¿Estás interesado en nuestra oferta?
+- [ ] Sí
+- [ ] No
+  - [ ] Cambios que harías
 
 [Video de Ibai](https://www.youtube.com/watch?v=PWkaQXXTMd8)
 
