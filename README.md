@@ -30,10 +30,8 @@ Lista numerada:
 | Python   | Intermedio |
 
 Checkboxes
-- [ ] Escribir readme
-- [ ] Seguir los pasos
-
-<!--Hola--> Código /Comentario no visible.
+- [ ] Checkbox 1
+- [ ] Checkbox 2
 
 [Video de Ibai](https://www.youtube.com/watch?v=PWkaQXXTMd8)
 
