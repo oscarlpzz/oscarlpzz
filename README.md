@@ -1,10 +1,10 @@
 # Hola 
 
-**Hola soy ariadna** (Negrita)
+**Hola me llamo Óscar** (Negrita)
 
-*cursiva* 
+*Tengo 4 cafeteras* 
 
-Hola sdasdasdas
+Tengo el B1 y Bachillerato
 
 ```python
 
@@ -19,7 +19,7 @@ Lista:
 Lista numerada: 
 
 1. Paso uno
-2. Paso
+2. Paso dos
 
 
 > Esto es un comentario
@@ -35,7 +35,7 @@ Checkboxes
 
 <!--Hola--> Código /Comentario no visible.
 
-[Canal de MiduDev](https://www.youtube.com/watch?v=PWkaQXXTMd8)
+[Video de Ibai](https://www.youtube.com/watch?v=PWkaQXXTMd8)
 
 <a href='https://youtu.be/XiTE_o7mHgI' target='_blank'>
   <img width='30%' src='https://www.youtube.com/watch?v=PWkaQXXTMd8/mqdefault.jpg' alt='¿Las VPN son una estafa?' />
