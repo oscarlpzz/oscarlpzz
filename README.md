@@ -1,10 +1,42 @@
-## Hola, mi nombre es Óscar
-### Este es mi repositorio de GITHUB
+# Hola 
 
-Lista: 
-- Jose
-  - Jose  
+**Hola soy ariadna** (Negrita)
 
-Lista de números:
-1. LIL
-2. FONS
+*cursiva* 
+
+Hola sdasdasdas
+
+```python
+
+```
+Lista:
+- Elemento1
+- Elemento2
+- Elemento3
+  - Sub-elemento
+  - Sub-elemento
+ 
+Lista numerada: 
+
+1. Paso uno
+2. Paso
+
+
+> Esto es un comentario
+
+| Lenguaje | Nivel |
+|----------|-------|
+| HTML     | Básico |
+| Python   | Intermedio |
+
+Checkboxes
+- [ ] Escribir readme
+- [ ] Seguir los pasos
+
+<!--Hola--> Código /Comentario no visible.
+
+[Canal de MiduDev](https://www.youtube.com/watch?v=PWkaQXXTMd8)
+
+<a href='https://youtu.be/XiTE_o7mHgI' target='_blank'>
+  <img width='30%' src='https://www.youtube.com/watch?v=PWkaQXXTMd8/mqdefault.jpg' alt='¿Las VPN son una estafa?' />
+</a>
