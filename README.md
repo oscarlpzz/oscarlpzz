@@ -24,8 +24,8 @@ Nuestros planes de entrenamiento
 - [ ] Sí
 - [ ] No
 
-[Video inicial](https://www.youtube.com/watch?v=4-zjQvTDnbw)
+[Video trailer de nuestras instalaciones](https://www.youtube.com/watch?v=4-zjQvTDnbw)
 
-<a href='https://youtu.be/4-zjQvTDnbw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4-zjQvTDnbw/mqdefault.jpg' alt='Título del video' />
+<a href='https://youtu.be/9eQKFQqMwVU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9eQKFQqMwVU/mqdefault.jpg' alt='Título del video' />
 </a>
